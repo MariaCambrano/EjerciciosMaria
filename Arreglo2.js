@@ -18,7 +18,7 @@ function DatosArreglos(){
             console.log(`Los datos son: ${Datos[numeros]}`);
         } */
 
-            /* // FOR EACH //
+            /* // FOR EACH ANÓNIMA CON PARÁMETRO//
             Datos.forEach(function(numeros){
                 console.log(numeros);
                 

@@ -9,4 +9,4 @@ while (numero != 1 || numero != 5) {
     }
 }
 
-console.log(`El ciclo finalizó);
+console.log(`El ciclo finalizó`);
