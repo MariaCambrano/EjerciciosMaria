@@ -18,12 +18,12 @@ function DatosArreglos(){
             console.log(`Los datos son: ${Datos[numeros]}`);
         } */
 
-            /* // FOR EACH ANÓNIMA CON PARÁMETRO//
+            /* // FOR EACH ANÓNIMA CON PARÁMETRO //
             Datos.forEach(function(numeros){
                 console.log(numeros);
                 
             }) */
-//Función fleca con for..each
+//Función flecha con for..each
               /*   Datos.forEach(numeros=>console.log(numeros)) */
 /* 
               // WHILE //
